@@ -1,0 +1,14 @@
+{
+  "name": "modul_nodejs",
+  "version": "1.0.0",
+  "description": "modul mencoba nodejs pertama kali",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "arjuna",
+  "license": "ISC"
+}
